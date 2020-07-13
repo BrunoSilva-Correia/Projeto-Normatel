@@ -1,0 +1,42 @@
+header{
+  background-color: #EC1D24;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+body{
+  background-image: url("../marvelBackground.gif");
+}
+
+.container{
+  width: 65%;
+}
+
+.card-img-top{
+  cursor: pointer;
+}
+
+.col-sm-3{
+  padding: 10px;
+  width: 20%;
+}
+
+.card{
+  border: outset;
+}
+
+.card-body{
+  border-top: solid;
+}
+
+.card-title{
+  max-width: 50ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.col-md-5{
+  padding: 10px 0 10px 40px;
+}
